@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -la --numeric-uid-gidchmod u+x 5-listfilesdigitonly
-
+ls -la --numeric-uid-gid
